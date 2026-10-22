@@ -745,7 +745,7 @@ While the creative processes, interaction, and technology affordances are differ
 
 ---
 
-# <!--fit-->Another type is curiosity "
+# <!--fit-->Another type is curiosity towards a new and emerging technology"
 
 ---
 
