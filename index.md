@@ -739,7 +739,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 
-# <!--fit-->What agency is left for the artist?
+# <!--fit-->Computers are dum
 
 
 While the artists engagement with the automation is different, the human is 
