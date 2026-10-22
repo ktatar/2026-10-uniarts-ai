@@ -731,14 +731,15 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-#### Expert Procrastinator's Tool: Artificial Intelligence (2023)
-
 # <!--fit-->What if we automate all aspects of an artwork creation?
 
 # <!--fit-->What agency is left for the artist?
 
 ---
 
+#### Expert Procrastinator's Tool: Artificial Intelligence (2023)
+
+---
 
 #### Digital Ripples (2020)
 
