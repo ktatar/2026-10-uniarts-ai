@@ -825,7 +825,7 @@ While the creative processes, interaction, and technology affordances are differ
 ## Takeaways
 
 - There are much more exciting venues to explore with technology other than problem solving and optimization.
-- Technology making 
+- Affordances, 
 
 ---
 
