@@ -741,7 +741,9 @@ While the creative processes, interaction, and technology affordances are differ
 
 ---
 
+One type of first step in artistic technology research, is what if
 
+---
 
 #### Digital Ripples (2020)
 
