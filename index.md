@@ -739,7 +739,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 
-While the  with the automation is different, the human is much present in aesthetic
+While the engagement of the artist, creative processes, and technology affor with the automation is different, the human is much present in aesthetic
 
 ---
 
