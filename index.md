@@ -731,7 +731,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-# <!--fit-->**What if** we automate all aspects of an artwork creation?
+# <!--fit-->What if we automate all aspects of an artwork creation?
 
 # <!--fit-->What agency is left for the artist?
 
@@ -742,6 +742,10 @@ While the creative processes, interaction, and technology affordances are differ
 ---
 
 # <!--fit-->One type of first step in artistic technology research, is "what if?"
+
+---
+
+
 
 ---
 
