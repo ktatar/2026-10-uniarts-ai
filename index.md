@@ -825,7 +825,7 @@ While the creative processes, interaction, and technology affordances are differ
 ## Takeaways
 
 - There are much more exciting venues to explore with technology other than problem solving and optimization.
-- We are missing research methods and theoretical foundations to aesthetic affordances and experiences are still 
+- We are missing research methods and theoretical foundations to create  aesthetic affordances and experiences of 
 
 ---
 
