@@ -822,6 +822,8 @@ While the creative processes, interaction, and technology affordances are differ
 
 ---
 
+## Takeaways
+
 
 ---
 
