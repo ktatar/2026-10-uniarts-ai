@@ -808,6 +808,9 @@ While the creative processes, interaction, and technology affordances are differ
 
 ---
 
+# <!--fit-->What agency is left for the artist?
+
+
 ---
 
 ## Research Themes
