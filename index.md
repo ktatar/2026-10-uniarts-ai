@@ -808,7 +808,7 @@ While the creative processes, interaction, and technology affordances are differ
 
 ---
 
-# <!--fit-->What agency is left for the artist?
+# <!--fit-->Towards Critical Computing in Artistic Technology Research
 
 
 ---
