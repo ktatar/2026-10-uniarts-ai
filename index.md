@@ -735,7 +735,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 # <!--fit-->What if we automate all aspects of an artwork creation?
 
-# <!--fit-->What if we automate all aspects of an artwork creation?
+# <!--fit-->What agency left for the artist?
 
 ---
 
