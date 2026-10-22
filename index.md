@@ -733,8 +733,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 
-
-# <!--fit-->Most Musical AI research are ad-hoc efforts.
+# <!--fit-->What if we automate 
 
 ---
 
