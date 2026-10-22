@@ -745,7 +745,7 @@ While the creative processes, interaction, and technology affordances are differ
 
 ---
 
-
+# <!--fit-->Another type of first step in artistic technology research, is "what if?"
 
 ---
 
