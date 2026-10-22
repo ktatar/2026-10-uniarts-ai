@@ -731,6 +731,8 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
+#### Expert Procrastinator's Tool: Artificial Intelligence (2023)
+
 
 
 ---
