@@ -810,7 +810,6 @@ While the creative processes, interaction, and technology affordances are differ
 
 # <!--fit-->Towards Critical Computing in Artistic Technology Research
 
-
 ---
 
 ## Research Themes
@@ -820,6 +819,9 @@ While the creative processes, interaction, and technology affordances are differ
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
+
+---
+
 
 ---
 
