@@ -28,7 +28,7 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 | Canada |BC Arts Council | 2020 |
 | Switzerland | Swiss National Science Foundation | 2020-2021|
 | Canada |Social Sciences and Humanities Research Council| 2014-2020 |
-| Canada |Natural Sciences and Engineering Research Council| 2014- 2019 |
+| Canada |Natural Sciences and Engineering Research Council| 2014-2019 |
 
 ---
 
