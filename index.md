@@ -20,7 +20,7 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 
 | Country  | Funding Body  | Timeline |
 |:---|:---|:---|
-| Finland | Post-Scriptum , ELLIS Insitute Finland, and UniArts Helsinki | 2026- |
+| Finland | Foundation PostScriptum , ELLIS Insitute Finland, and UniArts Helsinki | 2026- |
 | Sweden | VR - Vetenskapsrådet | 2025-2031 |
 | Sweden | The Wallenberg AI, Autonomous Systems, and Software Program – Humanities and Society |2021- 2030 |
 | Canada | Canada Council for the Arts | 2018-2022 |
@@ -794,7 +794,8 @@ While the creative processes, interaction, and technology affordances are differ
 ---
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
-<small>https://www.youtube.com/watch?v=RhOfPQJSrok&source_ve_path=MTc4NDI0</small>
+<small>Video link
+https://youtu.be/5vgFnWk6rWs </small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RhOfPQJSrok?si=oXLhS4DY-nMmvASS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
