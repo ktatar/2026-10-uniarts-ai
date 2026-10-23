@@ -31,13 +31,11 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ---
 
-# Quick Recap on AI
-
-### What does Artificial Intelligence technology encapsulate?
+# What does Artificial Intelligence technology encapsulate?
 
 - Multimodal Foundation Models
 - Large Language Models (GPT, DeepSeek etc.)
-- - Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
+- Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
 - Good-old fashioned AI (Symbolic AI, Expert Systems, Rule-based Systems, etc.)
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
 - Artificial Life
