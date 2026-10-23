@@ -20,7 +20,7 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 
 | Country  | Funding Body  | Timeline |
 |:---|:---|:---|
-| Finland | Post-Scriptum Foundation, ELLIS Insitute Finland, and UniArts Helsinki | 2026- |
+| Finland | Post-Scriptum , ELLIS Insitute Finland, and UniArts Helsinki | 2026- |
 | Sweden | VR - Vetenskapsrådet | 2025-2031 |
 | Sweden | The Wallenberg AI, Autonomous Systems, and Software Program – Humanities and Society |2021- 2030 |
 | Canada | Canada Council for the Arts | 2018-2022 |
