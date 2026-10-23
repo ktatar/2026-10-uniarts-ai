@@ -42,7 +42,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 - Multi-agent Systems
 - Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
 - Deep Learning (Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Transformers, etc.)
-- Deep Generative Models (Variational Autoencoders, Generative Adversarial Networks, Flow-based Models, etc.)
+
 
 
 
