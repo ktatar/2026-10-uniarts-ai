@@ -7,10 +7,10 @@ paginate: true
 
 <!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
-# Machine Learning and Artificial Intelligence in Computational Arts, Music, and Games
+# Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
 
 <small> These slides are live at: 
-https://ktatar.github.io/2026-06-university-of-oslo</small>
+https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ![width:150](img/qrcode.png)
 
