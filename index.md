@@ -12,7 +12,7 @@ paginate: true
 <small> These slides are live at: 
 https://ktatar.github.io/2026-06-university-of-oslo</small>
 
-![width:150](img/qrcode.webp)
+![width:150](img/qrcode.png)
 
 ---
 
