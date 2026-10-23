@@ -827,7 +827,8 @@ While the creative processes, interaction, and technology affordances are differ
 - There are much more exciting venues to explore with technology other than problem solving and optimization.
 - We are missing research methods and theoretical foundations to research aesthetic affordances and experiences of emerging technologies such as Artificial Intelligence.
 - Most efforts are ad-hoc, and shared understanding requires better epistemic foundations.
-- AI is not only LLMs
+- AI is not only LLMs.
+- 
 
 ---
 
