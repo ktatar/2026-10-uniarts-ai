@@ -31,6 +31,10 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ---
 
+# Quick Recap on AI
+
+---
+
 ## Over-arching Themes
 
 - Artistic Technology Research
