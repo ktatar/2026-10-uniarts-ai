@@ -36,7 +36,8 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 ### What does Artificial Intelligence technology encapsulate?
 
 - Multimodal Foundation Models
-- - Large Language Models (GPT, DeepSeek etc.)
+- Large Language Models (GPT, DeepSeek etc.)
+- - Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
 - Good-old fashioned AI (Symbolic AI, Expert Systems, Rule-based Systems, etc.)
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
 - Artificial Life
@@ -44,7 +45,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 - Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
 - Deep Learning (Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Transformers, etc.)
 - Deep Generative Models (Variational Autoencoders, Generative Adversarial Networks, Flow-based Models, etc.)
-- Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
+
 
 
 
