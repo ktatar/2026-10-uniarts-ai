@@ -901,7 +901,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 ## Takeaways
 
 - There are much more exciting venues to explore with technology other than problem solving and optimization.
-- We are missing research methods and theoretical foundations to research aesthetic affordances and experiences of emerging technologies such as Artificial Intelligence.
+- We are missing research methods and theoretical foundations to research aesthetic affordances and experiences of  Artificial Intelligence.
 - Most efforts are ad-hoc, and shared understanding requires better epistemic foundations.
 - AI is not only LLMs.
 
@@ -927,7 +927,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 </div>
 <div>
 
-## Epistemic Opportunities
+## Opportunities
 
 - There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
 - We can cultivate the academic venues and communities where ML/AI research is truly conjointed.
