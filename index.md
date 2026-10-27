@@ -18,6 +18,11 @@ https://kivanctatar.com/2026-10-uniarts-ai/
 
 ## Acknowledgements
 
+
+---
+
+## Acknowledgements
+
 | Country  | Funding Body  | Timeline |
 |:---|:---|:---|
 | Finland | Foundation PostScriptum , ELLIS Insitute Finland, and UniArts Helsinki | 2026- |
