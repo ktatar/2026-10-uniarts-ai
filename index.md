@@ -206,7 +206,7 @@ Emerging themes from the user study with 9 composers:
 
 - How to showcase aesthetics of different models?
   - Challenge: It is impossible to hear all possibilities of a model through human listening, hence smart approaches needed.
-- What are emergent research themes that we could 
+- What are emergent research themes that we could share across works
 
 ---
 
