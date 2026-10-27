@@ -88,7 +88,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ## Research Themes
 
-- Deep Learning and Audio
+- Deep Generative Modelling and Musical Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
