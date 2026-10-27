@@ -16,7 +16,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/
 
 ---
 
-## Upcoming, From December 2026
+## Upcoming, from December 2026
 
 Professor in Digital Art with emphasis on AI and Co-Creativity
 
@@ -904,7 +904,6 @@ https://youtu.be/5vgFnWk6rWs </small>
 - We are missing research methods and theoretical foundations to research aesthetic affordances and experiences of emerging technologies such as Artificial Intelligence.
 - Most efforts are ad-hoc, and shared understanding requires better epistemic foundations.
 - AI is not only LLMs.
-- 
 
 ---
 
