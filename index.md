@@ -927,7 +927,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ## Epistemic Opportunities
 
-- There are opportunities to lead new interdisciplinary research directions such as Artistic Technology Research.
+- There are opportunities to lead new interdisciplinary research directions such as artistic technology research.
 - 
 
 </div>
