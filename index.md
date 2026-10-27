@@ -909,7 +909,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 # Risks and Challenges
 
-- 
+- The confounding of 
 - Arts and music knowledge is 
 
 ---
