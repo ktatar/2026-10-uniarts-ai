@@ -9,6 +9,23 @@ paginate: true
 
 # Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
 
+<!-- _class: columns -->
+
+<div>
+
+## Two column slide
+
+Originally solution from <https://github.com/orgs/marp-team/discussions/192#discussioncomment-1516155>
+
+</div>
+<div>
+
+## Can't believe this works. YOLO
+
+If you are brave for more sections, here is an online tool for css grids: https://grid.layoutit.com/
+
+</div>
+
 <small> These slides are live at: 
 https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
