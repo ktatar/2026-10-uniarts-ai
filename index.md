@@ -791,7 +791,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 ### Artworks
 
 - Expert Procrastinator's Tool: Artificial Intelligence (2023)
-- Conceptual Pillars of Artistic Creativity
 - Digital Ripples (2020)
 - Experiments with VQGAN Text-to-Image Synthesis
 - Exposing the Bias in Artificial Intelligence: The Cyber Future
