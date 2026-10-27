@@ -812,8 +812,25 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
+<div>
+
+## Challenges
+
 - While the creative processes, interaction, and technology affordances are different with highly automated AI technology, the human is much present in aesthetic choices and its decisions.
 - The agency is more concentrated in the familiarity, power, and control over the AI technology.
+
+</div>
+<div>
+
+## Opportunities
+
+- There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
+- We can cultivate the academic venues and communities where ML/AI research is truly conjointed.
+- We should consider reforming arts and music education at all levels for the new AI era.
+
+</div>
+
+
 
 
 
