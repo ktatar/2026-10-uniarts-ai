@@ -128,7 +128,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 Artistic Technology Research - What if?
 
-What if I could synthesize sounds in 
+What if I could synthesize sounds in between existing sounds?
 
 ---
 
