@@ -222,7 +222,8 @@ Emerging themes from the user study with 9 composers:
 ---
 
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
-https://www.youtube.com/watch?v=rfq82eKE-34&t=1800s
+https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
