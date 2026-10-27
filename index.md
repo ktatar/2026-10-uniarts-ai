@@ -237,7 +237,7 @@ Emerging themes from the user study with 9 composers:
     
 ---
 
-### Deep Learning and Audio
+### Deep Generative Modelling and Musical Audio
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
@@ -323,7 +323,7 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-### Deep Learning and Audio
+### Deep Generative Modelling and Musical Audio
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
@@ -416,7 +416,7 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 
 ---
 
-### Deep Learning and Audio
+### Deep Generative Modelling and Musical Audio
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
@@ -449,7 +449,7 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 
 ---
 
-### Deep Learning and Audio
+### Deep Generative Modelling and Musical Audio
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
@@ -540,7 +540,7 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 ## Research Themes
 
-- Deep Learning and Audio
+- Deep Generative Modelling and Musical Audio
 - **AI in Computational Creativity and Game Design**
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
@@ -678,7 +678,7 @@ Any LLM code-generation task targeting a domain-specific framework faces these t
 
 ## Research Themes
 
-- Deep Learning and Audio
+- Deep Generative Modelling and Musical Audio
 - AI in Computational Creativity and Game Design
 - **Societal Impact of AI in Culture, Arts, and Music**
 - Artworks
@@ -754,7 +754,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ## Research Themes
 
-- Deep Learning and Audio
+- Deep Generative Modelling and Musical Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - **Artworks**
@@ -863,7 +863,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ## Research Themes
 
-- Deep Learning and Audio
+- Deep Generative Modelling and Musical Audio
 - Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
