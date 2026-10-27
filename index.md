@@ -204,7 +204,7 @@ Emerging themes from the user study with 9 composers:
 
 #### Open Questions
 
-- How to showcase non-neutrality of different models?
+- How to showcase aesthetics of different models?
 
 ---
 
