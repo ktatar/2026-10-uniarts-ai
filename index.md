@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png) From December 2026 ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png) <small>From December 2026</small> ![width:350](chalmers-gu.png)</p> -->
 
 # Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
 
