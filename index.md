@@ -820,9 +820,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 </div>
 <div>
 
-- There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
-- We can cultivate the academic venues and communities where ML/AI research is truly conjointed.
-- We should consider reforming arts and music education at all levels for the new AI era.
+
 
 </div>
 
