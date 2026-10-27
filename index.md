@@ -909,12 +909,16 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 # Risks and Challenges
 
+## 
+
+---
+
 - The confounding of research and science is a major challenge in ML/AI research in Arts and Music.
 - As ML/AI research has become less and less inviting to interdisciplinarity, the music and arts knowledge has been
 l
 ---
 
-#
+## 
 
 ---
 
