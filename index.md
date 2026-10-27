@@ -217,7 +217,7 @@ Emerging themes from the user study with 9 composers:
 #### Open Questions
 
 - How to showcase aesthetics of different models?
-  - Challenge: It is impossible to hear all possibilities of a model through human listening, hence smart approaches needed.
+  - Challenge: It is impossible to hear all possibilities of a model through human listening, hence other approaches needed.
 - What are emergent research threads that we could share and compare across works?
 
 ---
