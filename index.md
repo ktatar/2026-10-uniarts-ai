@@ -18,7 +18,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/
 
 ## Upcoming
 
-
+Professor in Digital Art with emphasis on AI and Co-Creativity
 
 
 ---
