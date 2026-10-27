@@ -42,7 +42,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 - Multi-agent Systems
 - Artificial Life
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
-- Good-old fashioned AI (Symbolic AI, Expert Systems, Rule-based Systems, etc.)
+- Symbolic AI, Expert Systems, Rule-based Systems, etc.)
   
 ---
 
