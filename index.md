@@ -4,31 +4,15 @@ theme: my_theme
 math: katex
 paginate: true
 ---
-<!-- _class: columns -->
 
 <!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
 # Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
 
-<div>
-
-## Two column slide
-
-Originally solution from <https://github.com/orgs/marp-team/discussions/192#discussioncomment-1516155>
-
-</div>
-<div>
-
-## Can't believe this works. YOLO
-
-If you are brave for more sections, here is an online tool for css grids: https://grid.layoutit.com/
-
-</div>
-
 <small> These slides are live at: 
 https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
-![width:200](img/qrcode.png)
+![align-center  width:200](img/qrcode.png)
 
 ---
 
