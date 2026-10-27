@@ -104,7 +104,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ---
 
-### Deep Generative Modelling and Audio
+### Deep Generative Modelling and Musical Audio
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
