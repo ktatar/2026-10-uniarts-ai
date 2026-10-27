@@ -46,6 +46,41 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
   
 ---
 
+---
+
+#### Calculating Empires (Crawford and Joler 2023)
+
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 445px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640"
+    title="Calculating Empires"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<small>https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640</small>
+
+---
+
 ## Over-arching Themes
 
 - Artistic Technology Research
