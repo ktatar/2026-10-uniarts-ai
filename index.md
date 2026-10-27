@@ -9,7 +9,7 @@ paginate: true
 
 # Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
 
-<small> These slides are live at: 
+These slides are live at: 
 https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ![align-center  width:200](img/qrcode.png)
