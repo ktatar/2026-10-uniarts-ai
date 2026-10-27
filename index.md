@@ -911,14 +911,14 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 - Epistemic
 - Organizational
-- 
+- Academic
 
 ---
 <!-- _class: columns -->
 
 <div>
 
-## Epistemic Challenges
+## Challenges
 
 - The confounding of research and science is a major challenge in ML/AI research in Arts and Music.
 - As ML/AI research has become less and less inviting to interdisciplinarity, the music and arts knowledge has been less present in this domain.
