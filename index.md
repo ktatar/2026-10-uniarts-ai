@@ -817,6 +817,8 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 - While the creative processes, interaction, and technology affordances are different with highly automated AI technology, the human is much present in aesthetic choices and its decisions.
 - The agency is more concentrated in the familiarity, power, and control over the AI technology.
 
+
+
 ---
 
 # <!--fit-->One type of first step in artistic technology research, is "what if?"
