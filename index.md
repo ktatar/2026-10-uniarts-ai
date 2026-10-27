@@ -200,6 +200,10 @@ Emerging themes from the user study with 9 composers:
 - Tool Deficiencies
 - Continued use
 
+--- 
+
+### 
+
 ---
 
 ### Deep Generative Modelling and Musical Audio
@@ -212,8 +216,6 @@ Emerging themes from the user study with 9 composers:
 - Neural Audio Instruments
 
 ---
-
-
 
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
 
