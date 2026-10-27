@@ -4,12 +4,11 @@ theme: my_theme
 math: katex
 paginate: true
 ---
+<!-- _class: columns -->
 
 <!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
 # Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
-
-<!-- _class: columns -->
 
 <div>
 
