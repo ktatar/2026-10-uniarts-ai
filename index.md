@@ -205,7 +205,7 @@ Emerging themes from the user study with 9 composers:
 #### Open Questions
 
 - How to showcase aesthetics of different models?
-  - Challenge: Content is 
+  - Challenge: It is impossible to hear all possibilities of a model as 
 
 ---
 
