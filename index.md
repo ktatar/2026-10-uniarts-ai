@@ -23,7 +23,7 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ![width:200](img/uniarts.svg)
 
-![width:300](img/ellis-fi.png)
+![width:450](img/ellis-fi.png)
 
 
 ---
