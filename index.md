@@ -919,17 +919,14 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 - The confounding of research and science is a major challenge in ML/AI research in Arts and Music.
 - As ML/AI research has become less and less inviting to interdisciplinarity, the music and arts knowledge has been less present in this domain.
+- 
 
 </div>
 <div>
 
 ## Epistemic Opportunities
 
-- Mathematics of Latent Audio Spaces for interactivity
-- Establishing methods and frameworks for joint efforts in musical AI research
-- Moving machines as musical agents
-- Creativity beyond the material
-- New mixed research methods for analyzing demographic representations in generative AI
+- 
 
 </div>
 
