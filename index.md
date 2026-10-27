@@ -812,7 +812,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-While the creative processes, interaction, and technology affordances are different with highly automated AI technology, the human is much present in aesthetic choices and its decisions.
+- While the creative processes, interaction, and technology affordances are different with highly automated AI technology, the human is much present in aesthetic choices and its decisions.
 
 ---
 
