@@ -16,7 +16,7 @@ https://kivanctatar.com/2026-10-uniarts-ai/
 
 ---
 
-## Upcoming
+## Upcoming, From December 2026
 
 Professor in Digital Art with emphasis on AI and Co-Creativity
 
