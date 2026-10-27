@@ -206,7 +206,7 @@ Emerging themes from the user study with 9 composers:
 
 - How to showcase aesthetics of different models?
   - Challenge: It is impossible to hear all possibilities of a model through human listening, hence smart approaches needed.
-- What are emergent research threads that we could share and compare across works
+- What are emergent research threads that we could share and compare across works?
 
 ---
 
@@ -222,7 +222,7 @@ Emerging themes from the user study with 9 composers:
 ---
 
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
-
+https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810
 <iframe width="800" height="450" src="https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
