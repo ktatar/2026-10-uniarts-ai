@@ -12,7 +12,7 @@ paginate: true
 <small> These slides are live at: 
 https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
-![width:250](img/qrcode.png)
+![width:200](img/qrcode.png)
 
 ---
 
