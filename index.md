@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png) <small>From December 2026</small> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
 # Machine Learning and Artificial Intelligence in the Arts and Music: A Take on Opportunities and Risks
 
@@ -223,7 +223,6 @@ Emerging themes from the user study with 9 composers:
 
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
 https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
-
 <iframe width="800" height="450" src="https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
