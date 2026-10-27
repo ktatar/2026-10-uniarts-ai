@@ -923,7 +923,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 </div>
 <div>
 
-## Epistemic Challenges
+## Epistemic Opportunities
 
 - Mathematics of Latent Audio Spaces for interactivity
 - Establishing methods and frameworks for joint efforts in musical AI research
@@ -933,10 +933,6 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 </div>
 
-## Epistemic Challenges
-
-
-l
 ---
 
 ## 
