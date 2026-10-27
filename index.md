@@ -811,6 +811,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 # <!--fit-->What agency is left for the artist?
 
 ---
+<!-- _class: columns -->
 
 <div>
 
@@ -819,8 +820,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 </div>
 <div>
-
-## Opportunities
 
 - There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
 - We can cultivate the academic venues and communities where ML/AI research is truly conjointed.
