@@ -909,7 +909,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 # Risks and Challenges
 
-- The confounding of 
+- The confounding of research and science is a major challenge in ML
 - Arts and music knowledge is 
 
 ---
