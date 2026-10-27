@@ -202,7 +202,9 @@ Emerging themes from the user study with 9 composers:
 
 --- 
 
-### 
+#### Open Questions
+
+- Moving 
 
 ---
 
