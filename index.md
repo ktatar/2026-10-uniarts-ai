@@ -16,7 +16,9 @@ https://kivanctatar.com/2026-10-uniarts-ai/
 
 ---
 
-## Acknowledgements
+## Upcoming
+
+
 
 
 ---
