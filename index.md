@@ -917,11 +917,8 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ## Key Takeaways
 
-- How do we make music with vast sound search spaces?
-- Most musical AI research are often ad-hoc efforts.
-- Music and arts research need its own lineage.
-- Technology is not neutral, it is situated in social and cultural contexts. 
-- It is time for artists and musicians to take on and lead the musical AI technology development.
+- The confounding of research and science is a major challenge in ML/AI research in Arts and Music.
+- As ML/AI research has become less and less inviting to interdisciplinarity, the music and arts knowledge has been less present in this domain.
 
 </div>
 <div>
@@ -938,8 +935,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ## Epistemic Challenges
 
-- The confounding of research and science is a major challenge in ML/AI research in Arts and Music.
-- As ML/AI research has become less and less inviting to interdisciplinarity, the music and arts knowledge has been less present in this domain.
+
 l
 ---
 
