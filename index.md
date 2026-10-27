@@ -928,7 +928,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 ## Epistemic Opportunities
 
 - There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
-- We should consider reforming arts and music education for the new 
+- We should consider reforming arts and music education at all levels for the new AI era.
 
 </div>
 
