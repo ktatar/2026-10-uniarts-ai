@@ -126,7 +126,9 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 
 ---
 
+Artistic Technology Research - What if?
 
+---
 
 #### Latent Timbre Synthesis
 
