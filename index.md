@@ -36,12 +36,12 @@ https://kivanctatar.com/2026-10-uniarts-ai/</small>
 - Multimodal Foundation Models
 - Large Language Models and Agentic AI (GPT, DeepSeek etc.)
 - Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
-- Deep Learning (Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Transformers, etc.)
+- Deep Learning (ANNs, CNNs, RNNs, Transformers, etc.)
 - Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
 - Multi-agent Systems
 - Artificial Life
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
-- Deep Generative Models (VAEs, Flow-based Models, etc.)
+- Deep Generative Models (VAEs, GANs, Flow-based Models, etc.)
 - Good-old fashioned AI (Symbolic AI, Expert Systems, Rule-based Systems, etc.)
   
 ---
