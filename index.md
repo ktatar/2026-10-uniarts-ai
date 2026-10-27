@@ -912,6 +912,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 - Epistemic Challenges
 
 ---
+<!-- _class: columns -->
 
 <div>
 
@@ -926,7 +927,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ## Epistemic Opportunities
 
-- 
+- There are opportunities to 
 
 </div>
 
