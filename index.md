@@ -177,7 +177,9 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
+#### Dataset
 
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=102182719/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://kivanctatar.bandcamp.com/album/self-distruption">Self-distruption by Kıvanç Tatar</a></iframe>
 
 ---
 
