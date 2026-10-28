@@ -416,6 +416,12 @@ AI models used
 
 ---
 
+#### Plastic Biosphere No.1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WIf6noBXLFM?si=STYTyyle2WVUBTbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 <small>https://www.youtube.com/watch?v=xdf1uKzGYfs</small>
 
