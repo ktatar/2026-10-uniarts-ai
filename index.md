@@ -544,21 +544,17 @@ The agency is more concentrated in the familiarity, power, and control over the 
 
 ---
 
-Text Generation: vicuna-13b on FastChat
-
-Video Generation: Stable Diffusion 2.1 on automatic1111
-
-Musical AI Frameworks: 
-- Musical Agents based on Self-Organizing Maps, Tatar et al. 2019
-- Latent Vector Synthesis: Master thesis by David Högberg
-
----
-
 # <!--fit-->One type of first step in artistic technology research, is "what if?"
 
 ---
 
 # <!--fit-->Another type is the curiosity towards a new and emerging technology
+
+---
+
+---
+
+#### Digital Ripples (2020)
 
 ---
 
