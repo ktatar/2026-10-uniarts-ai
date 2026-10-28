@@ -385,14 +385,7 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
----
-### Artworks
-
-- Expert Procrastinator's Tool: Artificial Intelligence (2023)
-- Digital Ripples (2020)
-- Experiments with VQGAN Text-to-Image Synthesis
-- Exposing the Bias in Artificial Intelligence: The Cyber Future
-- Exposing the Bias in Artificial Intelligence: The Machine Lexicon
+### 
 
 ---
 
