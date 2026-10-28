@@ -200,8 +200,6 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
   
 ---
 
----
-
 <!-- _class: columns -->
 
 <div>
@@ -215,7 +213,7 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 </div>
 <div>
 
-AI models used
+#### AI models used
 
 - Style imitation based on the repo *neural-style-tf*, which builds on 
   - L. A. Gatys, A. S. Ecker, and M. Bethge, “Image Style Transfer Using Convolutional Neural Networks,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2016.
