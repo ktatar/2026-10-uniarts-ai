@@ -519,7 +519,7 @@ AI models used for,
 
 #### Performance setup for 2nd and 3rd editions
 
-![align-center width:650](img/exposing-performance.jpg)
+![align-center width:750](img/exposing-performance.jpg)
 
 ---
 
