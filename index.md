@@ -271,7 +271,18 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 ---
 
+# What does Artificial Intelligence technology encapsulate?
 
+- Multimodal Foundation Models
+- Large Language Models and Agentic AI (GPT, DeepSeek etc.)
+- **Deep Generative Models** (VAEs, GANs, diffusion models, flow-based models, etc.)
+- Reinforcement Learning (Q-learning, deep Q-networks, policy gradient methods, etc.)
+- Deep Learning (ANNs, CNNs, RNNs, Transformers, etc.)
+- Conventional Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
+- Multi-agent Systems
+- Artificial Life
+- Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
+- Symbolic AI, Expert Systems, Rule-based Systems, etc.
 
 ---
 
