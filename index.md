@@ -706,16 +706,20 @@ AI models used for,
 
 <div>
 
+## Opportunities
+
+- There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
+- We can cultivate the academic venues and communities where ML/AI research is truly conjointed.
+- We should consider reforming arts and music education at all levels for the new AI era.
+
+</div>
+<div>
+
 ## Challenges
 
 - The confounding of research and science is a major challenge in ML/AI research in Arts and Music.
 - As ML/AI research has become less and less inviting to interdisciplinarity, the music and arts knowledge has been less present in this domain.
 - There is very few direct educational paths to become an expert in ML/AI in Arts and Music.
-
-</div>
-<div>
-
-
 
 </div>
 
