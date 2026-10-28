@@ -292,7 +292,7 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 Two robotic arms controlled by reinforcement learning agents learning intimacy and borders,
 
-by 
+by Remy Siu and Kıvanç Tatar 
 
 </div>
 <div>
