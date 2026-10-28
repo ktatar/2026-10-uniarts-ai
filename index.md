@@ -429,7 +429,7 @@ No.1
 | Andrei Gindac | Admin |
 | [Assoc. Prof. Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/) | CINETic Director |
 
-No.2 
+No.2
 
 
 
