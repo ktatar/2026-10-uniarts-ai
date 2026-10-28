@@ -483,6 +483,7 @@ Musical AI Frameworks:
 - Demographics dimensions from the USA job statistics dataset
 - A list of positive/negative masculine/feminen adjectives from large language models
 
+
 ---
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
