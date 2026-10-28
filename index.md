@@ -720,13 +720,13 @@ Feel free to reach out -> tatar@chalmers.se
 
 --- 
 
-Appendixes
+# Appendixes
 
 ---
 
 ---
 
-# Appendix: 
+## Appendix: 
 
 ---
 
