@@ -525,15 +525,6 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 ---
 
-## Research Themes
-
-- Deep Generative Modelling and Musical Audio
-- AI in Computational Creativity and Game Design
-- **Societal Impact of AI in Culture, Arts, and Music**
-- Artworks
-
----
-
 ### Societal Impact of AI in Culture, Arts, and Music
 
 - **A Shift in Artistic Practices through Artificial Intelligence**
