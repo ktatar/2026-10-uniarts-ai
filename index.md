@@ -401,8 +401,7 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 AI models used
 
 - Style imitation based on the repo *neural-style-tf*, which builds on 
-  - [1] L. A. Gatys, A. S. Ecker, and M. Bethge, “Image Style Transfer Using Convolutional Neural Networks,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2016.
-
+  - L. A. Gatys, A. S. Ecker, and M. Bethge, “Image Style Transfer Using Convolutional Neural Networks,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2016.
   - Artistic style transfer for videos by Manuel Ruder, Alexey Dosovitskiy, Thomas Brox
   - Preserving Color in Neural Artistic Style Transfer by Leon A. Gatys, Matthias Bethge, Aaron Hertzmann, Eli Shechtman
 
