@@ -556,7 +556,7 @@ The agency is more concentrated in the familiarity, power, and control over the 
 
 An exploration into VQGAN and NFTs. 
 
-Credits
+**Credits**
 
 | Author | Role |
 | --- | --- |
@@ -683,7 +683,7 @@ AI models used for,
 
 ---
 
-#### Key takeaways 
+#### Key takeaways from Exposing the Bias series
 
 - Many of generative AI models shares the same underlying models for embeddings.
   - For example word2vec for word embeddings, CLIP for text-image embeddings
