@@ -106,21 +106,6 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
-# What does Artificial Intelligence technology encapsulate?
-
-- Multimodal Foundation Models
-- Large Language Models and Agentic AI (GPT, DeepSeek etc.)
-- **Reinforcement Learning** (Q-learning, deep Q-networks, policy gradient methods, etc.)
-- **Deep Generative Models** (VAEs, GANs, diffusion models, flow-based models, etc.)
-- **Deep Learning** (ANNs, CNNs, RNNs, Transformers, etc.)
-- **Conventional Machine Learning** ( such as SVMs, Decision Trees, Random Forests, KNN, etc.)
-- **Multi-agent Systems**
-- Artificial Life
-- Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
-- Symbolic AI, Expert Systems, Rule-based Systems, etc.
-
----
-
 # Organizing Sounds with Artificial Intelligence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HyRaBvoLvnI?si=7TlBHhN97aUsMLo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -184,7 +169,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-## Deep Generative Modelling with 
+## Deep Generative Modelling for Musical  
 
 ---
 
