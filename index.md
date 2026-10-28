@@ -402,7 +402,7 @@ AI models used
 
 - Style imitation based on the repo *neural-style-tf*, which builds on 
   - L. A. Gatys, A. S. Ecker, and M. Bethge, “Image Style Transfer Using Convolutional Neural Networks,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2016.
-  - Artistic style transfer for videos by Manuel Ruder, Alexey Dosovitskiy, Thomas Brox
+  - M. Ruder, A. Dosovitskiy, and T. Brox, “Artistic style transfer for videos,” 2016. doi: 10.1007/978-3-319-45886-1_3.
   - Preserving Color in Neural Artistic Style Transfer by Leon A. Gatys, Matthias Bethge, Aaron Hertzmann, Eli Shechtman
 
 </div>
