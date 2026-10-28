@@ -489,17 +489,7 @@ Musical AI Frameworks:
   Arvidson, 2009. A Gender Based Adjectival 
   Study of Women's and Men's Magazines
      +
-  List of ethnicities in Labor force characteristics
-    by U.S. Bureau of Labor Statistics  
-
-
-
-    
-
-- Demographics dimensions from the USA job statistics dataset
-  - 
-- A list of positive/negative masculine/feminen adjectives from large language models
-- Stable Diffusion 
+- List of ethnicities in Labor force characteristics by U.S. Bureau of Labor Statistics  
 
 ---
 
