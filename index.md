@@ -519,7 +519,7 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
-#### Expert Procrastinator's Tool: Artificial Intelligence 
+##### AI Models inExpert Procrastinator's Tool: Artificial Intelligence 
 
 
 Text Generation: vicuna-13b on FastChat
