@@ -558,6 +558,14 @@ An exploration into VQGAN and NFTs.
 
 Credits
 
+| Author | Role |
+| --- | --- |
+| [Kıvanç Tatar](https://www.kivantatar.com/) | Video and Artistic Director |
+| [Paul Paroczai](https://github.com/pparocza) | Sound Design |
+| [Esra Ozkan](https://esraozkan.art/) | Curator |
+| [Nancy Lee](https://www.nancylee.ca/) | Curator |
+| [Lucy Strauss](https://www.lucystrauss.com) | Technical Specialist |
+
 ---
 
 #### Digital Ripples (2020)
