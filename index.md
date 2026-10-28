@@ -501,6 +501,12 @@ Musical AI Frameworks:
  
 ---
 
+#### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
+
+
+
+---
+
 #### Exposing the Bias in Artificial Intelligence: The Digital Assemblage
 
 <small>https://youtu.be/cODIggxDDv4</small>
