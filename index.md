@@ -505,8 +505,9 @@ Musical AI Frameworks:
 
 AI models used for,
 - text: chatgpt 5.3, chatgpt-4o-latest-20250326, Claude, deepseek-r1-0528, grok, llama-4-maverick-03-26-experimental, mistral-small-3.1-24b-instruct-2503
-		CLIP-ViT-g-14-laion2B-s12B-b42K
-		Stable Diffusion:
+- text-to-image: 
+  - CLIP-ViT-g-14-laion2B-s12B-b42K
+  - Stable Diffusion:
 			 Model hash: e6bb9ea85b
 			 Model: sd_xl_base_1.0_0.9vae
 			 Refiner: sd_xl_refiner_1.0_0.9vae [8d0ce6c016]
