@@ -302,16 +302,6 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ![align-center width:800](img/coding-the-latent-setup.png)
     
----
-
-### Deep Generative Modelling and Musical Audio
-
-- Latent Timbre Synthesis
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- **Music Notation and Composition with Latent Spaces**
-- ARIA: A Diagnostic Framework for Music Training Data Attribution
-- Neuralacoustics
-- Neural Audio Instruments
 
 ---
 
