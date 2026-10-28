@@ -169,7 +169,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-#
+## Deep Generative Modelling with 
 
 ---
 
