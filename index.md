@@ -503,7 +503,29 @@ Musical AI Frameworks:
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
 
-
+AI models used...
+	text:
+		chatgpt 5.3
+		chatgpt-4o-latest-20250326
+		Claude
+		deepseek-r1-0528
+		grok
+		llama-4-maverick-03-26-experimental
+		mistral-small-3.1-24b-instruct-2503
+	text-to-image:
+		CLIP-ViT-g-14-laion2B-s12B-b42K
+		Stable Diffusion:
+			 Model hash: e6bb9ea85b
+			 Model: sd_xl_base_1.0_0.9vae
+			 Refiner: sd_xl_refiner_1.0_0.9vae [8d0ce6c016]
+			 Refiner switch at: 0.8
+			 Version: v1.10.1
+	text-to-voice:
+			Qwen3-TTS: Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
+	talking head synthesis:
+			Ditto: motion-space diffusion for 
+				controllable realtime talking head synthesis
+	
 
 ---
 
