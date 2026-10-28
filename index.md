@@ -809,8 +809,6 @@ We investigated whether large language models can translate structured game‑de
 
 ![width:500](img/grounding-pipeline.png)
 
-
-
 <small>Liu, H. X., & Tatar, K. (2026). Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints. [arXiv preprint arXiv:2603.07101.](https://arxiv.org/abs/2603.07101) </small>
 </div>
 <div>
