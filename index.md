@@ -519,7 +519,7 @@ AI models used for,
 
 ---
 
-#### Exposing the Bias in Artificial Intelligence: The Digital Assemblage
+#### Exposing the Bias in Artificial Intelligence: Digital Assemblage
 
 <small>https://youtu.be/cODIggxDDv4</small>
 
@@ -527,7 +527,7 @@ AI models used for,
 
 ---
 
-#### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
+#### Exposing the Bias in Artificial Intelligence: Digital Assemblage
 
 AI models used for,
 - text: chatgpt 5.3, chatgpt-4o-latest-20250326, Claude, deepseek-r1-0528, grok, llama-4-maverick-03-26-experimental, mistral-small-3.1-24b-instruct-2503
