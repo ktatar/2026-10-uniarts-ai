@@ -431,10 +431,7 @@ AI models used
 
 ---
 
-#### Plastic Biosphere No.1 - Credits
-
-
-No.2
+#### Plastic Biosphere No.2 - Credits
 
 | Author | Role |
 | --- | --- |
@@ -442,8 +439,6 @@ No.2
 | [Tamar Tabori](https://www.instagram.com/tamamamar) | Contemporary Dance |
 | [Dan O'Shea](https://www.doshea.net/) | Technical Director |
 | [Remy Siu](https://remysiu.com/) | Technical Consultant |
-
-No.3 is an album, 
 
 ---
 
