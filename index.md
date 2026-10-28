@@ -628,10 +628,8 @@ Text Generation: vicuna-13b on FastChat
 Video Generation: Stable Diffusion 2.1 on automatic1111
 
 Musical AI Frameworks: 
-  Musical Agents based on Self-Organizing Maps
-Tatar et al. 2019
-
-Latent Vector Synthesis: Master thesis by David Högberg
+  Musical Agents based on Self-Organizing Maps, Tatar et al. 2019
+  Latent Vector Synthesis: Master thesis by David Högberg
 
 </div>
 
