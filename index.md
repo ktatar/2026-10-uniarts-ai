@@ -513,8 +513,11 @@ AI models used for,
     - Refiner: sd_xl_refiner_1.0_0.9vae [8d0ce6c016]
       - Refiner switch at: 0.8
       - Version: v1.10.1
+- 
+- Clustering: Uniform Manifold 
+  Approximation and Projection 
 - text-to-voice: Qwen3-TTS: Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
-	talking head synthesis: Ditto: motion-space diffusion for controllable realtime talking head synthesis
+- talking head synthesis: Ditto: motion-space diffusion for controllable realtime talking head synthesis
 
 ---
 
