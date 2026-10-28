@@ -119,7 +119,7 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 </div>
 <div>
 
- ## Conventional Machine Learning
+ ## + Conventional Machine Learning
 
 - Self-Organising Maps
 - Variable Markov Models or Factor Oracle
