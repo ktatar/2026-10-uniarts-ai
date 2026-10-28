@@ -169,7 +169,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-## Deep Generative Modelling for Musical  
+## Deep Generative Modelling for Organized Sound 
 
 ---
 
@@ -257,7 +257,7 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-### Deep Generative Modelling and Musical Audio
+### Deep Generative Modelling for Musical Audio
 
 - Latent Timbre Synthesis
 - **Coding the Latent Artwork and RawAudio Variational Autoencoder**
