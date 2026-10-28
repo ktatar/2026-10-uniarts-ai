@@ -724,7 +724,7 @@ Feel free to reach out -> tatar@chalmers.se
 
 ---
 
-# Appendixes
+## Appendix: SociSocietal Impact of AI in Culture, Arts, and Music
 
 ---
 
