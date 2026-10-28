@@ -106,20 +106,15 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
-# Combining Multi-agent Systems with Conventional Machine Learning
-
-- Realtime and interactive
-- The agency in performance can be distributed to humans and autonomous systems
-- The aesthetics are flexible when the agents can be trained on a dataset
-
-
 <!-- _class: columns -->
 
 <div>
 
-#### Case 1: Text-to-Audio Generation with Open-MusicLM
+# Multi-agent Systems with Conventional Machine Learning
 
-MusicLM-style three-stage hierarchical musical audio generation model trained on FMA-Large. The hierarchical structure provides three independently attributable stages: **semantic, coarse, and fine**; each predicting a different token type from a different audio segment duration, which allows us to measure whether each stage’s attribution recovers a different musical aspect.
+- Realtime and interactive
+- The agency in performance can be distributed to humans and autonomous systems
+- The aesthetics are flexible when the agents can be trained on a dataset
 
 </div>
 <div>
