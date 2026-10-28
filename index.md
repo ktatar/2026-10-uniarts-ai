@@ -198,7 +198,6 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
 - Symbolic AI, Expert Systems, Rule-based Systems, etc.
   
-
 ---
 
 ## Deep Generative Modelling for Organized Sound 
