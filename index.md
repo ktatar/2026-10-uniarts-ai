@@ -286,12 +286,13 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 <!-- _class: columns -->
 
+<div>
 
 ### Gestalt Generation No.1 
 
 Two robotic arms controlled by reinforcement learning agents learning intimacy and borders.
-
-
+</div>
+<div>
 
 ![width:700](img/gestalt-generation-no.1.jpg)
 
