@@ -112,8 +112,6 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
-
-
 #### Musical Agents based on Self-Organizing Maps (MASOM)
 
 K. Tatar, “Musical agents based on self-organizing maps for audio applications,” Thesis, Communication, Art & Technology: School of Interactive Arts and Technology, 2019. Available: http://summit.sfu.ca/item/19665
