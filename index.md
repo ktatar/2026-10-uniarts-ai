@@ -416,7 +416,7 @@ AI models used
 
 ---
 
-#### Plastic Biosphere - Credits
+#### Plastic Biosphere No.1 - Credits
 
 
 
@@ -428,6 +428,11 @@ AI models used
 | [Iuliana Gherghescu](https://cinetic.arts.ro/en/echipa/iuliana-gherghescu/) | Set Design |
 | Andrei Gindac | Admin |
 | [Assoc. Prof. Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/) | CINETic Director |
+
+---
+
+#### Plastic Biosphere No.1 - Credits
+
 
 No.2
 
