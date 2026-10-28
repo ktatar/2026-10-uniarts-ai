@@ -694,14 +694,6 @@ AI models used for,
 # <!--fit-->Towards Critical Computing in Artistic Technology Research
 
 ---
-
-# Risks and Challenges
-
-- Epistemic
-- Organizational
-- Academic
-
----
 <!-- _class: columns -->
 
 <div>
@@ -711,7 +703,6 @@ AI models used for,
 - There are opportunities to lead new interdisciplinary research directions such as *artistic technology research*.
 - We can cultivate the academic venues and communities where ML/AI research is truly conjointed.
 - We should consider reforming arts and music education at all levels for the new AI era.
-- A
 
 </div>
 <div>
