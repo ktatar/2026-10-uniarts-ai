@@ -106,6 +106,10 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
+
+
+---
+
 ## Over-arching Themes
 
 - Artistic Technology Research
