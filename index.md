@@ -98,8 +98,8 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 - **Reinforcement Learning** (Q-learning, deep Q-networks, policy gradient methods, etc.)
 - **Deep Generative Models** (VAEs, GANs, diffusion models, flow-based models, etc.)
 - **Deep Learning** (ANNs, CNNs, RNNs, Transformers, etc.)
-- Conventional Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
-- Multi-agent Systems
+- **Conventional Machine Learning** (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
+- **Multi-agent Systems**
 - Artificial Life
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
 - Symbolic AI, Expert Systems, Rule-based Systems, etc.
