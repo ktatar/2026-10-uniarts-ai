@@ -518,6 +518,8 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
+
+
 # <!--fit-->What if we automate all aspects of an artwork creation?
 
 # <!--fit-->What agency is left for the artist?
