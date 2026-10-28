@@ -519,7 +519,7 @@ AI models used for,
 
 #### Performance setup for 2nd and 3rd editions
 
-![align-center width:950](img/masom-features.jpg)
+![align-center width:950](img/ex)
 
 
 ---
