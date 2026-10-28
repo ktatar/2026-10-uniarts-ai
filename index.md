@@ -548,7 +548,7 @@ AI models used for,
 #### Key takeaways 
 
 - Many of generative AI models shares the same underlying models for embeddings.
-  - For example word2vec for word embeddings, 
+  - For example word2vec for word embeddings, CLIP for text---
 - We still do not know what societal values and associations are hidden in those models. 
 
 ---
