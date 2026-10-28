@@ -112,6 +112,24 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 - The agency in performance can be distributed to humans and autonomous systems
 - The aesthetics are flexible when the agents can be trained on a dataset
 
+
+<!-- _class: columns -->
+
+<div>
+
+#### Case 1: Text-to-Audio Generation with Open-MusicLM
+
+MusicLM-style three-stage hierarchical musical audio generation model trained on FMA-Large. The hierarchical structure provides three independently attributable stages: **semantic, coarse, and fine**; each predicting a different token type from a different audio segment duration, which allows us to measure whether each stage’s attribution recovers a different musical aspect.
+
+</div>
+<div>
+
+#### Case 2: Symbolic Music Generation with MusicTransformer
+
+A pre-trained MusicTransformer on MAESTRO with an Linear Datamodeling Score (LDS) attribution as the ground truth, run four attribution evaluation methods: TRAK (10-ensemble), TracIn , GRAD-COS, and GradDot; through the ARIA's evaluation pipeline, obtaining score matrixes. We use the five jSymbolic 2.2 features (**melody, harmony, rhythm, dynamic, texture**), extracted per training segment from the decoded MIDI.
+
+</div>
+
 ---
 
 ### A Conversation with Artificial Intelligence (2017)
