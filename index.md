@@ -109,8 +109,8 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 # Combining Multi-agent Systems with Conventional Machine Learning
 
 - Realtime and interactive
-- The agency in performance can be distributed to humans and autonomous systems 
-- The aesthetics are flexible when the agents can be trained 
+- The agency in performance can be distributed to humans and autonomous systems
+- The aesthetics are flexible when the agents can be trained on a dataset
 
 ---
 
