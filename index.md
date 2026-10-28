@@ -301,11 +301,10 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 #### Coding the Latent
 
 ![align-center width:800](img/coding-the-latent-setup.png)
-    
 
 ---
 
-#### Music Notation and Composition with Latent Spaces
+#### Music Notation and Composition with Latent Spaces (2026)
 
 **Meta-Benjolin**
 
