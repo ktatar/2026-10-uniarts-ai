@@ -106,7 +106,9 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
+# Combining Multi-agent Systems with Conventional Machine Learning
 
+---
 
 ### A Conversation with Artificial Intelligence
 
