@@ -109,7 +109,8 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 # Combining Multi-agent Systems with Conventional Machine Learning
 
 - Realtime and interactive
-- The agency in performance can be distributed 
+- The agency in performance can be distributed to autonomous systems and humans
+- 
 
 ---
 
