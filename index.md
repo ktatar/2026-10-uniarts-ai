@@ -189,6 +189,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 - Multimodal Foundation Models
 - Large Language Models and Agentic AI (GPT, DeepSeek etc.)
+- Deep Generative Models (VAEs, GANs, diffusion models, flow-based models, etc.)
 - Reinforcement Learning (Q-learning, deep Q-networks, policy gradient methods, etc.)
 - Deep Learning (ANNs, CNNs, RNNs, Transformers, etc.)
 - Conventional Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
