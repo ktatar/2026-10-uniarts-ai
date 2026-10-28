@@ -486,17 +486,16 @@ Musical AI Frameworks:
   Approximation and Projection 
 
 - Image prompt matrix is using two taxonomies:
-  Arvidson, 2009. A Gender Based Adjectival 
-  Study of Women's and Men's Magazines
-     +
-  List of ethnicities in Labor force characteristics
-    by U.S. Bureau of Labor Statistics  
+    Arvidson, 2009. A Gender Based Adjectival 
+    Study of Women's and Men's Magazines
+      +
+    List of ethnicities in Labor force characteristics
+      by U.S. Bureau of Labor Statistics  
 
 ---
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
-<small>Video link
-https://youtu.be/5vgFnWk6rWs </small>
+<small> https://youtu.be/5vgFnWk6rWs </small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vgFnWk6rWs?si=CbGDyEETfJ2oU60V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
