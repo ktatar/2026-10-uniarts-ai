@@ -482,10 +482,10 @@ Musical AI Frameworks:
 
 - AI Image Model: Stable Diffusion 2.1
 
-Clustering: Uniform Manifold 
+- Clustering: Uniform Manifold 
   Approximation and Projection 
 
-Image prompt matrix is using two taxonomies:
+- Image prompt matrix is using two taxonomies:
   Arvidson, 2009. A Gender Based Adjectival 
   Study of Women's and Men's Magazines
      +
