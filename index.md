@@ -740,7 +740,7 @@ AI models used for,
 
 # Thank you! 
 
-Feel free to reach out -> kivanc.tatar@chalmers.se
+Feel free to reach out -> kivanc.tatar@uniarts.fi
 
 --- 
 
