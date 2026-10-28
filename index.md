@@ -514,8 +514,6 @@ AI models used for,
       - Refiner switch at: 0.8
       - Version: v1.10.1
 - Clustering: Uniform Manifold Approximation and Projection 
-- text-to-voice: Qwen3-TTS: Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
-- talking head synthesis: Ditto: motion-space diffusion for controllable realtime talking head synthesis
 
 ---
 
@@ -548,7 +546,7 @@ AI models used for,
 #### Key takeaways 
 
 - Many of generative AI models shares the same underlying models for embeddings.
-  - For example word2vec for word embeddings, CLIP for text---
+  - For example word2vec for word embeddings, CLIP for text-image embeddings
 - We still do not know what societal values and associations are hidden in those models. 
 
 ---
