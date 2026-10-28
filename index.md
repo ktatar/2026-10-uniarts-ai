@@ -481,7 +481,7 @@ Musical AI Frameworks:
 #### Exposing the Bias in Artificial Intelligence: The Cyber Future
 
 - Demographics dimensions from the USA job statistics dataset
-- A list of masculine
+- A list of positive/negative masculine/feminen adjectives from large language models
 
 ---
 
