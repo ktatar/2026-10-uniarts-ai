@@ -554,7 +554,9 @@ The agency is more concentrated in the familiarity, power, and control over the 
 
 #### Digital Ripples (2020)
 
-An exploration into VA
+An exploration into VQGAN and NFTs. 
+
+Credits
 
 ---
 
