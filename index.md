@@ -106,7 +106,7 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
-# Organizing Sounds with Artificial Intelligence
+## Organizing Sounds with Artificial Intelligence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HyRaBvoLvnI?si=7TlBHhN97aUsMLo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -166,10 +166,6 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 #### A Big MASOM Family
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJuMR1gtgp0?si=KuMsBsx8EMZwbqdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## Deep Generative Modelling with 
 
 ---
 
