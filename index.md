@@ -507,6 +507,8 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ## Deep Generative Modelling in Audiovisuals
 
+
+
 ---
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
