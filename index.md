@@ -286,7 +286,7 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 ### Gestalt Generation No.1 
 
-![width:800](img/gestalt-generation-no.1.jpg)
+![bg width:700](img/gestalt-generation-no.1.jpg)
 
 ---
 
