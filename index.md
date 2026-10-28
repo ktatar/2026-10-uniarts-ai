@@ -385,9 +385,11 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
-### Plastic Biosphere
+### Plastic Biosphere (2020)
 
-highlights the imperative coexistence of humankind and the material, plastics. In the anthropocene era, humankind created over 300 million tons of plastic every year, and this production has become a geophysical force of nature. The ubiquitous material extends beyond our reach and control, creating its own life-cycles, existing as an unignorable element of the biosphere.
+highlights the imperative coexistence of humankind and the material, plastics. 
+
+In the anthropocene era, humankind created over 300 million tons of plastic every year, and this production has become a geophysical force of nature. The ubiquitous material extends beyond our reach and control, creating its own life-cycles, existing as an unignorable element of the biosphere.
 
 ---
 
