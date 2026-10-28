@@ -511,8 +511,8 @@ AI models used for,
     - Model hash: e6bb9ea85b
     - Model: sd_xl_base_1.0_0.9vae
     - Refiner: sd_xl_refiner_1.0_0.9vae [8d0ce6c016]
-      - Refiner switch at: 0.8
-			 Version: v1.10.1
+    - Refiner switch at: 0.8
+    - Version: v1.10.1
 	text-to-voice:
 			Qwen3-TTS: Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
 	talking head synthesis:
