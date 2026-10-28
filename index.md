@@ -480,7 +480,7 @@ Musical AI Frameworks:
 
 #### Exposing the Bias in Artificial Intelligence: The Cyber Future
 
-- Demographics dimensions from 
+- Demographics dimensions from the USA job statistics dateset
 
 ---
 
