@@ -121,7 +121,8 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
  ## Conventional Machine Learning
 
-A pre-trained MusicTransformer on MAESTRO with an Linear Datamodeling Score (LDS) attribution as the ground truth, run four attribution evaluation methods: TRAK (10-ensemble), TracIn , GRAD-COS, and GradDot; through the ARIA's evaluation pipeline, obtaining score matrixes. We use the five jSymbolic 2.2 features (**melody, harmony, rhythm, dynamic, texture**), extracted per training segment from the decoded MIDI.
+- Self-Organising Maps
+- Variable Markov Models or Factor Oracle
 
 </div>
 
