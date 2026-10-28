@@ -169,6 +169,10 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
+#
+
+---
+
 #### Artistic Technology Research - What if?
 
 # <!--fit-->What if I could synthesize sounds in between existing sounds?
