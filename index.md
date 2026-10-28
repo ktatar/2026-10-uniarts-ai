@@ -799,3 +799,140 @@ https://youtu.be/5vgFnWk6rWs </small>
 # Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se
+
+--- 
+
+Appendix
+
+---
+
+
+
+### AI in Computational Creativity and Game Design
+
+- Towards Computationally Creative Game Design
+- LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- **Towards Computationally Creative Game Design**
+- LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
+
+---
+
+#### Towards Computationally Creative Game Design
+
+![bg right width:650](img/co-occurrence-network.jpg)
+
+Reviewed 236 studies on learning-based AI in game design
+
+While AI technologies are widely applied for functional and procedural tasks, **creativity remains underexplored**
+
+We investigated the correlation between the appearance of creativity-related terms and their co-occurrence with other keywords. 
+
+The co-occurrence network here visualizes the relationships and connections between frequently co-occurring keywords within the same article. 
+
+<small>Liu, H. X., Cotton, K., Björk, S., Tatar, K. Towards Computationally Creative Game Design in Human-Computer Interaction: A Systematic Overview of Learning-based Artificial Intelligence in Game Design. Submitted to Games: Research and Practice.</small>
+
+---
+
+#### Previous work
+
+Game Design Patterns (Bjork and Holopainen, 2005) includes 200 patterns.
+
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="http://virt10.itu.chalmers.se/index.php/Category:Patterns"
+    title="AI Dungeon"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<small> <http://virt10.itu.chalmers.se/index.php/Category:Patterns> 
+Bjork, S., and Holopainen, J. 2005. Patterns in game design, volume 11. Charles River Media Hingham. </small>
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- Towards Computationally Creative Game Design
+- **LLM-Based Executable Synthesis of Goal Playable Game Design Patterns**
+
+---
+
+#### LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
+
+We investigated whether large language models can translate structured game‑design knowledge—specifically goal‑pattern  abstractions—into executable Unity game scenes
+
+**Game Development Framing:** Digital game development as a computational creativity activity, in which design‑pattern abstractions and game engine constraints guide the creation of an executable, playable game
+**Execution‑grounded evaluation pipeline:** An end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
+**Insights on human–machine knowledge boundaries:** Game design pattern knowledge injection increases structural complexity requirement at generation, revealing a tension in how domain knowledge should be injected into generative systems.
+
+---
+
+<!-- _class: columns -->
+
+<div>
+
+#### Grounding Machine Creativity in Game Design Knowledge Representations
+
+![width:500](img/grounding-pipeline.png)
+
+
+
+<small>Liu, H. X., & Tatar, K. (2026). Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints. [arXiv preprint arXiv:2603.07101.](https://arxiv.org/abs/2603.07101) </small>
+</div>
+<div>
+
+#### Mage: Multi-Axis Evaluation of LLM-Generated Executable Game Scenes Beyond Compile-Pass Rate
+
+![width:800](img/mage-pipeline.png)
+
+<small>Liu, H. X., & Tatar, K. (2026). Mage: Multi-Axis Evaluation of LLM-Generated Executable Game Scenes Beyond Compile-Pass Rate. Submitted to NeurIPS 2026. [arXiv preprint arXiv:2605.07342.](https://arxiv.org/abs/2605.07342)</small>
+
+</div>
+
+---
+
+#### Mage: Multi-Axis Evaluation of LLM-Generated Executable Game Scenes Beyond Compile-Pass Rate
+
+![width:600](img/mage-results.png)
+
+
+![bg right width:600](img/mage-errors.png)
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- Compile rate alone as a misleading evaluation signal.
+
+- A three-factor interpretation, anchored in the error taxonomy. 
+1- **Domain Completeness:** what information the intermediate representation carries
+2- **API-mapping adequacy:** whether the prompt translates intermediate representation entity names into valid Unity API calls.
+3- **LLM execution fidelity:** whether the model uses the information correctly
+
+Any LLM code-generation task targeting a domain-specific framework faces these three factors.
+
+---
