@@ -624,8 +624,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 </div>
 <div>
 
-a sketch by Kıvanç Tatar
-
 Text Generation:
 vicuna-13b on FastChat
 
@@ -637,7 +635,7 @@ Musical Agents based on Self-Organizing Maps
 Tatar et al. 2019
 
 Latent Vector Synthesis
-David Högberg, Kelsey Cotton, Kıvanç Tatar
+David Högberg
 Upcoming
 
 </div>
