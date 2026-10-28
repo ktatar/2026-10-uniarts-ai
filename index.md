@@ -114,11 +114,6 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ## Organizing Sound with Artificial Intelligence
 
-- A Conversation with Artificial Intelligence
-- **Musical Agents based on Self-Organizing Maps (MASOM)**
-- Deep Generative Modelling and Latent Spaces for Audio
-- Music Notation and Composition with Latent Spaces
-
 ---
 
 #### Musical Agents based on Self-Organizing Maps (MASOM)
