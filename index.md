@@ -98,46 +98,6 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
-## Research Themes
-
-- Deep Generative Modelling and Musical Audio
-- AI in Computational Creativity and Game Design
-- Societal Impact of AI in Culture, Arts, and Music
-- Artworks
-
----
-
-## Research Themes
-
-- **Deep Generative Modelling and Musical Audio**
-- AI in Computational Creativity and Game Design
-- Societal Impact of AI in Culture, Arts, and Music
-- Artworks
-
----
-
-### Deep Generative Modelling and Musical Audio
-
-- Latent Timbre Synthesis
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Music Notation and Composition with Latent Spaces
-- ARIA: A Diagnostic Framework for Music Training Data Attribution
-- Neuralacoustics
-- Neural Audio Instruments
-  
----
-
-### Deep Generative Modelling and Musical Audio
-
-- **Latent Timbre Synthesis**
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Music Notation and Composition with Latent Spaces
-- ARIA: A Diagnostic Framework for Music Training Data Attribution
-- Neuralacoustics
-- Neural Audio Instruments
-
----
-
 #### Artistic Technology Research - What if?
 
 # <!--fit-->What if I could synthesize sounds in between existing sounds?
