@@ -420,6 +420,17 @@ AI models used
 
 No.1
 
+| Author | Role |
+| --- | --- |
+| [Kıvanç Tatar](https://www.kivantatar.com/) | Artist, Creative AI developer |
+| [Grigore Burloiu](https://cinetic.arts.ro/en/echipa/grigore-burloiu/) | Technical Director |
+| [Marius Hodea](https://cinetic.arts.ro/en/echipa/marius-hodea/) | 3D Modelling |
+| [Iuliana Gherghescu](https://cinetic.arts.ro/en/echipa/iuliana-gherghescu/) | Set Design |
+| Andrei Gindac | Admin |
+| [Assoc. Prof. Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/) | CINETic Director |
+
+No.2 
+
 
 
 ---
