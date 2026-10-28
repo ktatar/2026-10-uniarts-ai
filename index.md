@@ -106,6 +106,8 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
+
+
 ### A Conversation with Artificial Intelligence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=BxKv39bkl7GiU9v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -131,7 +133,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 ---
 
 
-![align-center width:1000](img/masom-features.jpg)
+![align-center width:950](img/masom-features.jpg)
 
 ---
 
