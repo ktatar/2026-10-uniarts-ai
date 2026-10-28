@@ -418,7 +418,7 @@ AI models used
 
 #### Plastic Biosphere - Credits
 
-No.1
+
 
 | Author | Role |
 | --- | --- |
@@ -431,7 +431,14 @@ No.1
 
 No.2
 
+| Author | Role |
+| --- | --- |
+| [Kıvanç Tatar](https://www.kivantatar.com/) | Artistic Director / Creative AI development |
+| [Tamar Tabori](https://www.instagram.com/tamamamar) | Contemporary Dance |
+| [Dan O'Shea](https://www.doshea.net/) | Technical Director |
+| [Remy Siu](https://remysiu.com/) | Technical Consultant |
 
+No.3 is an album, 
 
 ---
 
