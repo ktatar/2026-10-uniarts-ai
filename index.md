@@ -503,8 +503,8 @@ Musical AI Frameworks:
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
 
-AI models used...
-	text:
+AI models used for,
+- text:
 		chatgpt 5.3
 		chatgpt-4o-latest-20250326
 		Claude
