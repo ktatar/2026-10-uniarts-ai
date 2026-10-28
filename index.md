@@ -130,7 +130,9 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-#### Audio Features 
+#### Audio Features used in MASOM
+
+![align-center width:10000](img/masom-live.jpg)
 
 ---
 
