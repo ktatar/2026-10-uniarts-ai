@@ -549,16 +549,6 @@ AI models used for,
 
 ---
 
-## Research Themes
-
-- Deep Generative Modelling and Musical Audio
-- Multimodal Deep Learning for Movement and Audio
-- AI in Computational Creativity and Game Design
-- Societal Impact of AI in Culture, Arts, and Music
-- Artworks
-
----
-
 ## Takeaways
 
 - There are much more exciting venues to explore with technology other than problem solving and optimization.
