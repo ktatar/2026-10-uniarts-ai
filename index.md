@@ -556,7 +556,7 @@ The agency is more concentrated in the familiarity, power, and control over the 
 
 An exploration into VQGAN and NFTs. 
 
-#### Credits
+Credits
 
 | Author | Role |
 | --- | --- |
