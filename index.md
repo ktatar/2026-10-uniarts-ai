@@ -507,7 +507,7 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
-## Deep Generative Modelling for Organized Sound 
+## Deep Generative Modelling in Visual Domains
 
 ---
 
@@ -523,8 +523,6 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 # <!--fit-->What agency is left for the artist?
 
 ---
-
-
 
 While the creative processes, interaction, and technology affordances are different with highly automated AI technology, the human is much present in aesthetic choices and its decisions.
 
