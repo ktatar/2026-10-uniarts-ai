@@ -695,15 +695,6 @@ AI models used for,
 
 ---
 
-## Takeaways
-
-- There are much more exciting venues to explore with technology other than problem solving and optimization.
-- We are missing research methods and theoretical foundations to research aesthetic affordances and experiences of  Artificial Intelligence.
-- Most AI/ML efforts in arts and music are ad-hoc, and shared understanding requires better epistemic foundations.
-- Artificial Intelligence is a collection of different type of algorithms, not just LLMs. Each have their own specifics.
-
----
-
 # Risks and Challenges
 
 - Epistemic
