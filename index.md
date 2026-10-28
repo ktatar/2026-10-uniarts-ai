@@ -190,7 +190,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-#### Latent Timbre Synthesis (2020)
+#### Latent Timbre Synthesis 
 
 Interpolations in the latent space of the VAE
 
