@@ -507,8 +507,6 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ## Deep Generative Modelling in Audiovisuals
 
-
-
 ---
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
@@ -615,8 +613,7 @@ An exploration into VQGAN and NFTs.
 
 - AI Image Model: Stable Diffusion 2.1
 
-- Clustering: Uniform Manifold 
-  Approximation and Projection 
+- Clustering: Uniform Manifold Approximation and Projection 
 
 - Image prompt matrix is using two taxonomies:
     Arvidson, 2009. A Gender Based Adjectival 
