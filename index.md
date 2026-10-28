@@ -241,8 +241,6 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 #### Plastic Biosphere No.1 - Credits
 
-
-
 | Author | Role |
 | --- | --- |
 | [Kıvanç Tatar](https://www.kivantatar.com/) | Artist, Creative AI developer |
