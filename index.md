@@ -729,30 +729,14 @@ AI models used for,
 
 ---
 
-<!-- _class: columns -->
+## Takeaways
 
-<div>
+- There are much more exciting venues to explore with technology other than problem solving and optimization.
+- We are missing research methods and theoretical foundations to research aesthetic affordances and experiences of  Artificial Intelligence.
+- Most AI/ML efforts in arts and music are ad-hoc, and shared understanding requires better epistemic foundations.
+- Artificial Intelligence is a collection of different type of algorithms, not just LLMs. Each have their own specifics.
 
-## Key Takeaways
-
-- How do we make music with vast sound search spaces?
-- Most musical AI research are often ad-hoc efforts.
-- Music and arts research need its own lineage.
-- Technology is not neutral, it is situated in social and cultural contexts. 
-- It is time for artists and musicians to take on and lead the musical AI technology development.
-
-</div>
-<div>
-
-## Future is Bright!
-
-- Mathematics of Latent Audio Spaces for interactivity
-- Establishing methods and frameworks for joint efforts in musical AI research
-- Moving machines as musical agents
-- Creativity beyond the material
-- New mixed research methods for analyzing demographic representations in generative AI
-
-</div>
+---
 
 ---
 
