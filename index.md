@@ -110,7 +110,7 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 - Realtime and interactive
 - The agency in performance can be distributed to humans and autonomous systems 
-- 
+- The aesthetics are flexible 
 
 ---
 
