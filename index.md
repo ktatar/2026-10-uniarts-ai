@@ -518,7 +518,15 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
+Text Generation: vicuna-13b on FastChat
 
+Video Generation: Stable Diffusion 2.1 on automatic1111
+
+Musical AI Frameworks: 
+- Musical Agents based on Self-Organizing Maps, Tatar et al. 2019
+- Latent Vector Synthesis: Master thesis by David Högberg
+
+---
 
 # <!--fit-->What if we automate all aspects of an artwork creation?
 
