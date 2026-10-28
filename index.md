@@ -547,7 +547,7 @@ AI models used for,
 
 #### Key takeaways 
 
-- Many of generative AI models shares the same underlying model
+- Many of generative AI models shares the same underlying models for embeddings. 
 
 ---
 
