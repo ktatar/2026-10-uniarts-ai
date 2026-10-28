@@ -512,6 +512,7 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 ---
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
+
 <small>https://www.youtube.com/watch?v=xdf1uKzGYfs</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
