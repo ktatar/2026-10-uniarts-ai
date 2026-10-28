@@ -507,7 +507,7 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
-## Deep Generative Modelling in Visual Domains
+## Deep Generative Modelling in Audiovisuals
 
 ---
 
