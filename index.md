@@ -454,7 +454,7 @@ Musical AI Frameworks:
       position: absolute;
       inset: 0;
       width: 100%;
-      height: 100%;
+    height: 100%;
       border: 0;
     "
     loading="lazy"
@@ -515,7 +515,6 @@ AI models used for,
       - Version: v1.10.1
 	text-to-voice: Qwen3-TTS: Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
 	talking head synthesis: Ditto: motion-space diffusion for controllable realtime talking head synthesis
-	
 
 ---
 
