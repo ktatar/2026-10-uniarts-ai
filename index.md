@@ -385,23 +385,15 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
+<!-- _class: columns -->
+
+<div>
+
 ### Plastic Biosphere (2020)
 
 highlights the imperative coexistence of humankind and the material, plastics. 
 
 In the anthropocene era, humankind created over 300 million tons of plastic every year, and this production has become a geophysical force of nature. The ubiquitous material extends beyond our reach and control, creating its own life-cycles, existing as an unignorable element of the biosphere.
-
----
-
-<!-- _class: columns -->
-
-<div>
-
-## Multi-agent Systems
-
-- Realtime and interactive
-- The agency in performance can be distributed to humans and autonomous systems
-- The aesthetics are flexible when the agents can be trained on a dataset
 
 </div>
 <div>
@@ -412,6 +404,10 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 - Variable Markov Models or Factor Oracle
 
 </div>
+
+---
+
+
 
 ---
 
