@@ -592,14 +592,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-## Research Themes
-
-- Deep Generative Modelling and Musical Audio
-- AI in Computational Creativity and Game Design
-- Societal Impact of AI in Culture, Arts, and Music
-- **Artworks**
-
----
 
 ### Artworks
 
