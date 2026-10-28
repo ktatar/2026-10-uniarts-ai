@@ -616,9 +616,13 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 ---
 <!-- _class: columns -->
 
+<div>
+
 - While the creative processes, interaction, and technology affordances are different with highly automated AI technology, the human is much present in aesthetic choices and its decisions.
 - The agency is more concentrated in the familiarity, power, and control over the AI technology.
 
+</div>
+<div>
 
 Text Generation:
 vicuna-13b on FastChat
@@ -632,6 +636,8 @@ Tatar et al. 2019
 
 Latent Vector Synthesis
 Master thesis by David Högberg
+
+</div>
 
 ---
 
