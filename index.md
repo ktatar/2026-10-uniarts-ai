@@ -200,7 +200,86 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
   
 ---
 
+---
 
+<!-- _class: columns -->
+
+<div>
+
+### Plastic Biosphere (2020-2021)
+
+highlights the imperative coexistence of humankind and the material, plastics. 
+
+In the anthropocene era, humankind created over 300 million tons of plastic every year, and this production has become a geophysical force of nature. The ubiquitous material extends beyond our reach and control, creating its own life-cycles, existing as an unignorable element of the biosphere.
+
+</div>
+<div>
+
+AI models used
+
+- Style imitation based on the repo *neural-style-tf*, which builds on 
+  - L. A. Gatys, A. S. Ecker, and M. Bethge, “Image Style Transfer Using Convolutional Neural Networks,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2016.
+  - M. Ruder, A. Dosovitskiy, and T. Brox, “Artistic style transfer for videos,” 2016. doi: 10.1007/978-3-319-45886-1_3. 
+  - L. A. Gatys, M. Bethge, A. Hertzmann, and E. Shechtman, “Preserving Color in Neural Artistic Style Transfer,” Jun. 19, 2016, arXiv: arXiv:1606.05897. doi: 10.48550/arXiv.1606.05897.
+- Musical AI by musical agents based on self-organizing maps
+
+</div>
+
+---
+
+#### Plastic Biosphere No.1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WIf6noBXLFM?si=STYTyyle2WVUBTbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Plastic Biosphere No.1 at Kepler's Gardens
+
+<video controls src="pb-ars.mp4" width="800"></video>
+
+---
+
+#### Plastic Biosphere No.1 - Credits
+
+
+
+| Author | Role |
+| --- | --- |
+| [Kıvanç Tatar](https://www.kivantatar.com/) | Artist, Creative AI developer |
+| [Grigore Burloiu](https://cinetic.arts.ro/en/echipa/grigore-burloiu/) | Technical Director |
+| [Marius Hodea](https://cinetic.arts.ro/en/echipa/marius-hodea/) | 3D Modelling |
+| [Iuliana Gherghescu](https://cinetic.arts.ro/en/echipa/iuliana-gherghescu/) | Set Design |
+| Andrei Gindac | Admin |
+| [Assoc. Prof. Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/) | CINETic Director |
+
+---
+
+#### Plastic Biosphere No.2 - Credits
+
+| Author | Role |
+| --- | --- |
+| [Kıvanç Tatar](https://www.kivantatar.com/) | Artistic Director / Creative AI development |
+| [Tamar Tabori](https://www.instagram.com/tamamamar) | Contemporary Dance |
+| [Dan O'Shea](https://www.doshea.net/) | Technical Director |
+| [Remy Siu](https://remysiu.com/) | Technical Consultant |
+
+---
+
+#### Plastic Biosphere No.2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WIf6noBXLFM?si=STYTyyle2WVUBTbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+
+---
+
+### Gestalt Generation No.1 - Research Process
+
+<iframe src="https://dl.dropboxusercontent.com/s/8j6odc3y4snjtog/gestalt%20research%20trailer%20draft%202.m4v" title="Gestalt Generation No.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="origin" allowfullscreen style="display:block; margin:1.5rem auto; width:min(100%, 742px); aspect-ratio:16/9; height:auto;"> </iframe>
+
+---
 
 ---
 
@@ -410,6 +489,8 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 </div>
 
 <small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
+
+---
 
 
 
