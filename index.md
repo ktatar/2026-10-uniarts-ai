@@ -431,7 +431,7 @@ https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
 ---
 
-#### Coding the Latent Artwork
+#### Coding the Latent
 
 ![align-center width:900](img/coding-the-latent-arc.jpg)
 
