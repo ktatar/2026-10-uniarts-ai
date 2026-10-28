@@ -456,6 +456,7 @@ AI models used
 
 ### Gestalt Generation No.1 
 
+<iframe src="https://dl.dropboxusercontent.com/s/8j6odc3y4snjtog/gestalt%20research%20trailer%20draft%202.m4v" title="Gestalt Generation No.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="origin" allowfullscreen style="display:block; margin:1.5rem auto; width:min(100%, 742px); aspect-ratio:16/9; height:auto;"> </iframe>
 
 ---
 
