@@ -549,7 +549,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ---
 
-To conceptualize artistic works inv
+To conceptualize artistic works involving ML/AI algorithms, 
 
 ---
 
