@@ -523,75 +523,6 @@ The six takeaways from our conceptualization of neural audio instruments:
 - By letting the model manifest itself only through the embodiment of the musician's actions and intentions, the performer can experience a unified instrument rather than a model endowed with conspicuous (artificial) intelligence
 - By rendering the model seamlessly integral, designers promote an experience of playing an instrument rather than interfacing with an AI model.
 
----
-
-### Societal Impact of AI in Culture, Arts, and Music
-
-- **A Shift in Artistic Practices through Artificial Intelligence**
-- Caring Trouble and Musical AI
-- Bringing the Body Back to AI Voice and Speech Technologies
-
----
-
-#### A Shift in Artistic Practices through Artificial Intelligence 
-
-![align-center width:900](img/a-shift-1.jpg)
-
-<small>K. Tatar et al., “A Shift in Artistic Practices through Artificial Intelligence,” Leonardo, pp. 293–297, Apr. 2024, doi: 10.1162/leon_a_02523.</small>
-
----
-
-### Societal Impact of AI in Culture, Arts, and Music
-
-- A Shift in Artistic Practices through Artificial Intelligence
-- **Caring Trouble and Musical AI**
-- Bringing the Body Back to AI Voice and Speech Technologies
-
----
-
-#### Caring Trouble and Musical AI
-
-![align-center width:1100](img/caring-trouble-2.jpg)
-
----
-
-#### Caring Trouble and Musical AI
-
-![align-center width:1000](img/caring-trouble-1.jpg)
-
-<small>Haraway, D. (2013). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In The transgender studies reader (pp. 103–118). Routledge.</small>
-
----
-
-### Societal Impact of AI in Culture, Arts, and Music
-
-- A Shift in Artistic Practices through Artificial Intelligence
-- Caring Trouble and Musical AI
-- **Bringing the Body Back to AI Voice and Speech Technologies**
-
----
-
-#### Bringing the Body Back to AI Voice and Speech Technologies
-
-Susan Bennett and Jon Briggs provided voice recordings for GM Voices, which were later licensed to ScanSoft.
-
-Their voice datasets were then later allegedly used to build the voice
-of the American Siri (Bennett) and British Siri (Briggs) through speech concatenation.
-
-Apple has never confirmed, nor denied whether they utilised Bennett’s concatenated speech data, nor Briggs’. In the case of Bennett, audio forensics expert Ed Primeau studied recordings of Siri and blind recordings of Bennett’s voice and presented his the conclusion of his analysis that “They are identical – a 100 % match.”
-
-<small>Cotton, Kelsey, de Vries, Katja & Tatar, Kıvanç. (2024). Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies. In Proceedings of the 9th International Conference on Movement and Computing. Utrecht, Netherlands, May 2024. https://dl.acm.org/doi/10.1145/3658852.3659065</small>
-
----
-
-#### Bringing the Body Back to AI Voice and Speech Technologies
-
-- Integrating voice rights into personality rights frameworks
-- The data frameworks for voice should be designed to have direct connection to their source body
-- Similarity should be revisited, where nations take their own stances through democratic processes
-
----
-
 ### Artworks
 
 - Expert Procrastinator's Tool: Artificial Intelligence (2023)
@@ -629,7 +560,7 @@ Video Generation: Stable Diffusion 2.1 on automatic1111
 
 Musical AI Frameworks: 
 - Musical Agents based on Self-Organizing Maps, Tatar et al. 2019
-  Latent Vector Synthesis: Master thesis by David Högberg
+- Latent Vector Synthesis: Master thesis by David Högberg
 
 </div>
 
