@@ -720,13 +720,15 @@ Feel free to reach out -> tatar@chalmers.se
 
 --- 
 
-Appendix
+Appendixes
 
 ---
 
 ---
 
+# Appendix: 
 
+---
 
 ### AI in Computational Creativity and Game Design
 
