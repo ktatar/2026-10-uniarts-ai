@@ -187,8 +187,6 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJuMR1gtgp0?si=MJG6dQKMLkf1t1py&amp;start=410" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FJuMR1gtgp0?si=MJG6dQKMLkf1t1py&amp;start=410" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 # What does Artificial Intelligence technology encapsulate?
@@ -366,10 +364,6 @@ Interpolations in the latent space of the VAE
 ![align-left width:550](img/inter_latent_space_scatter.png)
 
 ![align-right width:550](img/full_latent_space_scatter.png)
-
----
-
-# <!--fit-->Deep Generative Modelling is not neutral.
 
 ---
 
