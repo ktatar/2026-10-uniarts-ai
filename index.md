@@ -296,8 +296,6 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 ---
 
----
-
 # What does Artificial Intelligence technology encapsulate?
 
 - Multimodal Foundation Models
