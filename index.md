@@ -482,24 +482,15 @@ Musical AI Frameworks:
 
 - AI Image Model: Stable Diffusion 2.1
 
-Clustering: Uniform Manifold 
+- Clustering: Uniform Manifold 
   Approximation and Projection 
 
-Image prompt matrix is using two taxonomies:
+- Image prompt matrix is using two taxonomies:
   Arvidson, 2009. A Gender Based Adjectival 
   Study of Women's and Men's Magazines
      +
   List of ethnicities in Labor force characteristics
     by U.S. Bureau of Labor Statistics  
-
-
-
-    
-
-- Demographics dimensions from the USA job statistics dataset
-  - 
-- A list of positive/negative masculine/feminen adjectives from large language models
-- Stable Diffusion 
 
 ---
 
