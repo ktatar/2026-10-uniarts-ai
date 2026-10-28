@@ -549,7 +549,7 @@ https://youtu.be/5vgFnWk6rWs </small>
 
 ---
 
-The details of ML/AI algorithms matter conceptualize artistic works involving ML/AI algorithms, 
+The details of ML/AI algorithms matter in conceptualize artistic works involving them. 
 
 ---
 
