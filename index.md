@@ -424,8 +424,6 @@ Musical AI Frameworks:
 - Musical Agents based on Self-Organizing Maps, Tatar et al. 2019
 - Latent Vector Synthesis: Master thesis by David Högberg
 
-</div>
-
 ---
 
 # <!--fit-->One type of first step in artistic technology research, is "what if?"
@@ -477,6 +475,11 @@ Musical AI Frameworks:
 <small>https://www.youtube.com/watch?v=79gJtoeOhHE&source_ve_path=MTc4NDI0</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79gJtoeOhHE?si=dHgWsZPMWFxTO_kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Exposing the Bias in Artificial Intelligence: The Cyber Future
+
 
 
 ---
