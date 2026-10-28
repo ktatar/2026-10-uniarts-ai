@@ -635,8 +635,7 @@ Musical Agents based on Self-Organizing Maps
 Tatar et al. 2019
 
 Latent Vector Synthesis
-David Högberg
-Upcoming
+Master thesis by David Högberg
 
 </div>
 
