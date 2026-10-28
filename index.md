@@ -548,7 +548,7 @@ AI models used for,
 #### Key takeaways 
 
 - Many of generative AI models shares the same underlying models for embeddings. 
-- We still do not know what values 
+- We still do not know what societal values and associations are 
 
 ---
 
