@@ -393,7 +393,25 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 
 ---
 
+<!-- _class: columns -->
 
+<div>
+
+## Multi-agent Systems
+
+- Realtime and interactive
+- The agency in performance can be distributed to humans and autonomous systems
+- The aesthetics are flexible when the agents can be trained on a dataset
+
+</div>
+<div>
+
+ ## + Conventional Machine Learning
+
+- Self-Organising Maps
+- Variable Markov Models or Factor Oracle
+
+</div>
 
 ---
 
