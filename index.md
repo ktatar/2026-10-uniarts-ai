@@ -200,6 +200,23 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
   
 ---
 
+---
+
+# What does Artificial Intelligence technology encapsulate?
+
+- Multimodal Foundation Models
+- Large Language Models and Agentic AI (GPT, DeepSeek etc.)
+- Reinforcement Learning (Q-learning, deep Q-networks, policy gradient methods, etc.)
+- **Deep Generative Models** (VAEs, GANs, diffusion models, flow-based models, etc.)
+- Deep Learning (ANNs, CNNs, RNNs, Transformers, etc.)
+- Conventional Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
+- Multi-agent Systems
+- Artificial Life
+- Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
+- Symbolic AI, Expert Systems, Rule-based Systems, etc.
+  
+---
+
 ## Deep Generative Modelling for Organized Sound 
 
 ---
