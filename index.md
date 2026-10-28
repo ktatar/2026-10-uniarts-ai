@@ -273,17 +273,6 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-### Deep Generative Modelling for Musical Audio
-
-- Latent Timbre Synthesis
-- **Coding the Latent Artwork and RawAudio Variational Autoencoder**
-- Music Notation and Composition with Latent Spaces
-- ARIA: A Diagnostic Framework for Music Training Data Attribution
-- Neuralacoustics
-- Neural Audio Instruments
-
----
-
 #### Coding the Latent Artwork (2022)
 https://www.youtube.com/watch?v=rfq82eKE-34&t=2810s
 
