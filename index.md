@@ -454,7 +454,7 @@ AI models used
 
 ---
 
-#### Plastic Biosphere No.2
+### Gestalt Generation No.1 
 
 
 ---
