@@ -220,14 +220,6 @@ Interpolations in the latent space of the VAE
 
 ---
 
-#### Latent Timbre Synthesis
-
-<small>https://www.youtube.com/watch?v=-1XuXbX_VZo</small>
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 # <!--fit-->Deep Generative Modelling is not neutral.
 
 ---
