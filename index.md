@@ -621,14 +621,11 @@ While the creative processes, interaction, and technology affordances are differ
 
 The agency is more concentrated in the familiarity, power, and control over the AI technology.
 
-</div>
-<div>
+---
 
-Text Generation:
-vicuna-13b on FastChat
+Text Generation: vicuna-13b on FastChat
 
-Video Generation:
-Stable Diffusion 2.1 on automatic1111
+Video Generation: Stable Diffusion 2.1 on automatic1111
 
 Musical AI Frameworks: 
 Musical Agents based on Self-Organizing Maps
