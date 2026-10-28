@@ -106,7 +106,34 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ---
 
+---
 
+### A Conversation with Artificial Intelligence
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=BxKv39bkl7GiU9v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Organizing Sound with Artificial Intelligence
+
+- A Conversation with Artificial Intelligence
+- **Musical Agents based on Self-Organizing Maps (MASOM)**
+- Deep Generative Modelling and Latent Spaces for Audio
+- Music Notation and Composition with Latent Spaces
+
+---
+
+#### Musical Agents based on Self-Organizing Maps (MASOM)
+
+K. Tatar, “Musical agents based on self-organizing maps for audio applications,” Thesis, Communication, Art & Technology: School of Interactive Arts and Technology, 2019. Available: http://summit.sfu.ca/item/19665
+
+---
+
+#### Co-Performance with MASOM
+
+![align-center width:10000](img/masom-live.jpg)
+
+---
 
 ---
 
