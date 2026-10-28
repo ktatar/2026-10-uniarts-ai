@@ -110,11 +110,11 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 - Realtime and interactive
 - The agency in performance can be distributed to humans and autonomous systems 
-- The aesthetics are flexible if agents can be trained 
+- The aesthetics are flexible when the agents can be trained 
 
 ---
 
-### A Conversation with Artificial Intelligence ()
+### A Conversation with Artificial Intelligence (2017)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=BxKv39bkl7GiU9v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
