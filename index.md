@@ -398,10 +398,9 @@ In the anthropocene era, humankind created over 300 million tons of plastic ever
 </div>
 <div>
 
- ## + Conventional Machine Learning
+AI models used
 
-- Self-Organising Maps
-- Variable Markov Models or Factor Oracle
+- Style imitation 
 
 </div>
 
