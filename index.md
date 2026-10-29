@@ -164,12 +164,6 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-#### Co-Performance with MASOM
-
-![align-center width:10000](img/masom-live.jpg)
-
----
-
 #### Organizing Sounds with Artificial Intelligence
 
 <iframe width="800" height="459" src="https://www.youtube.com/embed/HyRaBvoLvnI?si=wg9CNrwCUUL_ygUl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
