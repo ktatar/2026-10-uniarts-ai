@@ -164,6 +164,10 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
+
+
+---
+
 #### Organizing Sounds with Artificial Intelligence
 
 <iframe width="800" height="459" src="https://www.youtube.com/embed/HyRaBvoLvnI?si=wg9CNrwCUUL_ygUl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -173,6 +177,12 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 #### Dataset
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=102182719/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://kivanctatar.bandcamp.com/album/self-distruption">Self-distruption by Kıvanç Tatar</a></iframe>
+
+---
+
+#### Co-Performance with MASOM
+
+![align-center width:10000](img/masom-live.jpg)
 
 ---
 
