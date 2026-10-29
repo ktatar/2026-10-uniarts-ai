@@ -640,7 +640,7 @@ An exploration into VQGAN and NFTs.
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
 <small> https://youtu.be/5vgFnWk6rWs </small>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5vgFnWk6rWs?si=CbGDyEETfJ2oU60V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/5vgFnWk6rWs?si=CbGDyEETfJ2oU60V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
 ---
 
