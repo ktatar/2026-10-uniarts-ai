@@ -25,7 +25,6 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ![width:450](img/ellis-fi.png)
 
-
 ---
 
 ## Acknowledgements
