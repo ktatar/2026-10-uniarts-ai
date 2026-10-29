@@ -661,9 +661,9 @@ AI models used for,
 
 #### Exposing the Bias in Artificial Intelligence: Digital Assemblage
 
-<small>https://youtu.be/5vgFnWk6rWs </small>
+<small>https://youtu.be/5vgFnWk6rWs</small>
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/cODIggxDDv4?si=llPwHGLB5BKKHJ27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/5vgFnWk6rWs?si=RoqNnn0OHKm-4pxT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
