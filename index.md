@@ -604,7 +604,7 @@ An exploration into VQGAN and NFTs.
 
 #### Experiments with VQGAN Text-to-Image Synthesis (2021)
 
-<video controls src="best-to-worst.mp4" width="450"></video>
+<video controls src="best-to-worst.webm" width="450"></video>
 
 ---
 
