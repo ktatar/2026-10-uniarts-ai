@@ -165,7 +165,9 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 ---
 
 #### Organizing Sounds with Artificial Intelligence
-<><>
+
+<small>https://www.youtube.com/watch?v=HyRaBvoLvnI</small>
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/HyRaBvoLvnI?si=5dIIDNR17952fJEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
