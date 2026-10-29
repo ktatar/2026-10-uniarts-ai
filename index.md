@@ -577,7 +577,7 @@ An exploration into VQGAN and NFTs.
   style="
     width: 100%;
     height: 70vh;
-    max-height: 400px;
+    max-height: 800px;
     border: 1px solid #ddd;
     border-radius: 12px;
     overflow: hidden;
