@@ -572,7 +572,7 @@ An exploration into VQGAN and NFTs.
 ---
 
 #### Digital Ripples (2020)
-
+<small>
 <div
   style="
     width: 100%;
