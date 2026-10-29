@@ -309,7 +309,7 @@ by Remy Siu and Kıvanç Tatar
 
 ### Gestalt Generation No.1 - Research Process
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/530129987?h=89c8a6ba77" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/530129987?h=89c8a6ba77" width="800" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ---
 
