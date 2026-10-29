@@ -424,14 +424,6 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-#### RawAudio Variational Autoencoder
-
-![align-center width:800](img/smc-poster-3-strategies.jpg)
-
-<small> K. Tatar, K. Cotton, and D. Bisig, “Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures,” presented at the Proceedings of Sound and Music Computing 2023, 2023.</small>
-
----
-
 #### Coding the Latent
 
 ![align-center width:900](img/coding-the-latent-arc.jpg)
