@@ -145,7 +145,7 @@ Professor in Digital Art with emphasis on AI and Co-Creativity
 
 ### A Conversation with Artificial Intelligence (2017)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=snoMz-kdBZBG7HqW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=snoMz-kdBZBG7HqW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
