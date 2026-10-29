@@ -164,6 +164,7 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
+#### A Latent Space
 
 
 ---
